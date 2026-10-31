@@ -31,8 +31,8 @@ As more people switch to EVs, cities need to plan charging infrastructure ahead 
 ## Project structure
 
 ```
-├── EV_Adoption_Forecasting (2).ipynb            # EDA, feature engineering, training, evaluation
-├── Electric_Vehicle_Population_By_County (1).csv # Raw dataset
+├── EV_Adoption_Forecasting.ipynb                # EDA, feature engineering, training, evaluation
+├── Electric_Vehicle_Population_By_County.csv     # Raw dataset
 ├── preprocessed_ev_data.csv                      # Cleaned data with engineered features
 ├── forecasting_ev_model.pkl                      # Trained Random Forest model
 ├── app.py                                        # Streamlit web app
